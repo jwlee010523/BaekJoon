@@ -49,4 +49,6 @@
 modules.order
 
 venv
+
+.idea
 .DS_Store
